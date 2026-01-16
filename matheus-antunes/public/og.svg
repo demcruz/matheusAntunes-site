@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Shape Sob Controle">
+  <defs>
+    <linearGradient id="glow" x1="780" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#36D39A" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#0C0D12" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C0D12" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0C0D12" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0C0D12"/>
+  <circle cx="980" cy="120" r="240" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#fade)"/>
+  <text x="80" y="210" fill="#F5F6FB" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800">
+    Shape Sob Controle
+  </text>
+  <text x="80" y="290" fill="#D7DBE8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">
+    Consultoria nutricional premium
+  </text>
+  <text x="80" y="340" fill="#9BA3B8" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">
+    Metodo, consistencia e rotina real
+  </text>
+  <rect x="80" y="390" width="220" height="4" fill="#36D39A"/>
+</svg>
